@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7B200&center=true&width=435&lines=Hello!+I'm+Harshal...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=F7B200&center=true&width=435&lines=Hello!+I'm+Harshal..)](https://git.io/typing-svg)
 <h3 align="center">A 2nd Year Computer Science Major, Who Likes To Solve Problems Revolving Around Data Using AI/ML.</h3>
 
 ![viciadoemcodar](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)

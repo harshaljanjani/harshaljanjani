@@ -17,6 +17,7 @@
 - 🪴 Currently exploring new ML models and contributing to open-source projects.
 - 📫 **Reach me at:** harshaljanjaniwork@gmail.com.
 - 👀 **Fun Fact:** I enjoy playing chess and the piano in my free time.
+- 🐬 **Personal Website:** https://harshaljanjani.netlify.app/
 
 ---
 

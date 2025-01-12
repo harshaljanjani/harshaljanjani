@@ -13,8 +13,8 @@
 
 ## 💫 About Me:
 - 🔭 **Passionate about Research & Development** in Machine Learning and Artificial Intelligence.
-- 👯 Looking to collaborate with like-minded developers to build innovative ML and Data Science projects.
-- 🪴 Currently exploring new ML models and contributing to open-source projects.
+- 👯 Looking to collaborate with like-minded developers to build innovative projects.
+- 🪴 Currently exploring new avenues of machine learning, staying up-to-date with research and contributing to open-source projects.
 - 📫 **Reach me at:** harshaljanjaniwork@gmail.com.
 - 👀 **Fun Fact:** I enjoy playing chess and the piano in my free time.
 - 🐬 **Personal Website:** https://harshaljanjani.netlify.app/
@@ -53,16 +53,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaljanjani&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaljanjani&theme=radical&hide_border=false" alt="GitHub Streak" width="450"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaljanjani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450"/>
-</div>

@@ -5,12 +5,13 @@
 </div>
 
 <h3 align="center">Machine Learning Engineer and Google Developer Expert in AI</h3>
+<h3 align="center">Experience: Google, IIT Bombay, and Samsung Research & Development Institute, Bangalore</h3>
 
 -----
 
 ### About Me
 
-I'm a machine learning engineer and a Google Developer Expert in AI, specializing in the efficiency-first AI paradigm. My work focuses on building lightweight, high-performance models for real-world applications. Working with the Keras team at Google, I have been privileged to make an impact on the library, which continues to serve more than 3,000,000 developers around the world. My models on Kaggle have also gained significant traction, with over **15,000 downloads in just half a year** as of September 2025.
+I'm a machine learning engineer and a Google Developer Expert in AI, specializing in the efficiency-first AI paradigm. My work focuses on building lightweight, high-performance models for real-world applications. In contract with the Keras team at Google, I have been privileged to make an impact on the library, which continues to serve more than 3,000,000 developers around the world. My models on Kaggle have also gained significant traction, with over **15,000 downloads in just half a year** as of September 2025.
 
 You'll find me working on Keras, authoring models originally built by high-value organizations and institutions such as **Google DeepMind** (for the Gemma series) and the **University of Science and Technology of China**. Having previously worked with **Samsung R&D** and **IIT Bombay**, I’ve honed my skill set through diverse experiences, but I remain deeply committed to the mission of bringing AI to everyone as the field becomes increasingly compute-hungry.
 

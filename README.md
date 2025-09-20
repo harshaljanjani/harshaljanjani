@@ -1,26 +1,33 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&weight=600&size=50&pause=1000&color=F70000&background=C4C4C41F&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Harshal.." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&weight=600&size=40&pause=3000&color=F70000&background=C4C4C41F&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Harshal.." alt="Typing SVG">
   </a>
 </div>
 
-<h3 align="center">A Computer Science Major Passionate About Solving Problems with Machine Learning and Artificial Intelligence</h3>
+<h3 align="center">Machine Learning Engineer and Google Developer Expert in AI</h3>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="500"/>
-</div>
-<hr/>
+-----
 
-## 💫 About Me:
-- 🔭 **Curious and driven** to explore Machine Learning and Artificial Intelligence through continuous learning and experimentation.
-- 👯 Eager to collaborate with others to build meaningful projects and contribute to the open-source community.
-- 🪴 Always growing by diving into new machine learning techniques and staying inspired by the latest research.
-- 📫 **Reach me at:** harshaljanjaniwork@gmail.com.
-- 👀 **Fun Fact:** I love unwinding with chess and playing the piano in my free time.
----
+### About Me
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-janjani-14483a24b)
+I'm a machine learning engineer and a Google Developer Expert in AI, specializing in the efficiency-first AI paradigm. My work focuses on building lightweight, high-performance models for real-world applications. As a contributor to the Keras team, my work has directly impacted more than **3,000,000 developers**. My models on Kaggle have also gained significant traction, with over **15,000 downloads in just half a year** as of September 2025.
+
+You'll find me working on Keras, authoring models originally built by high-value organizations and institutions such as **Google DeepMind** (for the Gemma series) and the **University of Science and Technology of China**. Having previously worked with **Samsung R&D** and **IIT Bombay**, I’ve honed my skill set through diverse experiences, but I remain deeply committed to the mission of bringing AI to everyone as the field becomes increasingly compute-hungry.
+
+### Built Together, For Everyone
+
+I believe in designing with the user in mind, and my open-source work reflects this philosophy. I've contributed to various platforms:
+
+  * **Keras:** Contributed multiple projects to [KerasHub](https://github.com/keras-team/keras-hub/commits?author=harshaljanjani) and the [Kaggle](https://www.kaggle.com/harshaljanjani/models) Keras page.
+  * **HuggingFace:** Made contributions to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.
+  * **PyTorch:** Contributed to the [PyTorch Tutorials](https://github.com/pytorch/tutorials/pull/3377) ecosystem.
+
+-----
+
+### Connect with Me
+
+  * **Email:** harshaljanjaniwork@gmail.com
+  * **LinkedIn:** [https://linkedin.com/in/harshal-janjani-14483a24b](https://linkedin.com/in/harshal-janjani-14483a24b)
 
 ## 💻 Key Strengths:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

@@ -30,7 +30,9 @@ I believe in designing with the user in mind, and my open-source work reflects t
   * **Email:** harshaljanjaniwork@gmail.com
   * **LinkedIn:** [https://linkedin.com/in/harshaljanjani](https://linkedin.com/in/harshal-janjani-14483a24b)
 
-## 💻 Key Strengths:
+-----
+
+### Key Strengths
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -38,7 +40,7 @@ I believe in designing with the user in mind, and my open-source work reflects t
 ![JAX](https://img.shields.io/badge/JAX-%237B42BC.svg?style=for-the-badge&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 💻 Technologies I've Explored:
+### Technologies I've Explored
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,3 +54,5 @@ I believe in designing with the user in mind, and my open-source work reflects t
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+-----

@@ -17,11 +17,12 @@ You'll find me working on Keras, authoring models originally built by high-value
 
 ### Built Together, For Everyone
 
-I believe in designing with the user in mind, and my open-source work reflects this philosophy. I've contributed to various platforms:
+I believe in designing with the user in mind, and my open-source work reflects this philosophy. I've contributed to various ecosystems (the links are to my individual contributions to these repositories, not the repositories themselves):
 
-  * **Keras:** Contributed multiple projects to [KerasHub](https://github.com/keras-team/keras-hub/commits?author=harshaljanjani) and the [Kaggle](https://www.kaggle.com/harshaljanjani/models) Keras page.
-  * **HuggingFace:** Made contributions to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.
-  * **PyTorch:** Contributed to the [PyTorch Tutorials](https://github.com/pytorch/tutorials/pull/3377) ecosystem.
+* **KerasHub:** Continuing to contribute multiple projects to [KerasHub](https://github.com/keras-team/keras-hub/pulls?q=is%3Apr+author%3Aharshaljanjani) and the [Kaggle](https://www.kaggle.com/harshaljanjani/models) Keras page.
+* **Core Keras:** Continuing to contribute multiple bug fixes and features to the [Core Keras](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3Aharshaljanjani) library (releases 3.9.0 and 3.11.0).
+* **HuggingFace:** Continuing to contribute to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.
+* **PyTorch:** Contributed to the [PyTorch Tutorials](https://github.com/pytorch/tutorials/pull/3377) ecosystem.
 
 -----
 

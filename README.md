@@ -23,6 +23,7 @@ I believe in designing with the user in mind, and my open-source work reflects t
 * **Core Keras:** Continuing to contribute multiple bug fixes and features to the [Core Keras](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3Aharshaljanjani) library (releases 3.9.0 and 3.11.0).
 * **HuggingFace:** Continuing to contribute to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.
 * **PyTorch:** Contributed to the [PyTorch Tutorials](https://github.com/pytorch/tutorials/pull/3377) ecosystem.
+* **Cactus:** Contributed to the [Cactus](https://github.com/cactus-compute/cactus/pulls?q=is%3Apr+author%3Aharshaljanjani+) ecosystem.
 
 -----
 

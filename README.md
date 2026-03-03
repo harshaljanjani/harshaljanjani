@@ -1,29 +1,29 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&weight=600&size=40&pause=3000&color=F70000&background=C4C4C41F&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Harshal.." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&weight=600&size=40&pause=3000&color=F70000&background=C4C4C41F&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Harshal+:)" alt="Typing SVG">
   </a>
 </div>
 
-<h3 align="center">Machine Learning Engineer and Google Developer Expert in AI</h3>
-<h3 align="center">Experience: Open to Work; Previously at Google, IIT Bombay, and Samsung Research & Development Institute, Bangalore</h3>
+<h3 align="center">ML Engineer and Google Developer Expert in AI</h3>
+<h3 align="center">Experience: Open to Work; Previously at Google, IIT Bombay, and Samsung Research & Development Institute</h3>
 
 -----
 
 ### About Me
 
-I'm a machine learning engineer and a Google Developer Expert in AI, specializing in the efficiency-first AI paradigm. My work focuses on building open-source models for real-world applications and democratizing AI. Previously under contract with the Keras team at Google, I have been privileged to make an impact on the library, which continues to serve more than 3,000,000 developers worldwide. My models on Kaggle have also gained significant traction, with over **50,000 downloads** as of January 2026.
+My work focuses on building open-source models for real-world applications and democratizing AI. Previously, with the Keras team at Google, I have been privileged to make an impact on the library, which continues to serve more than 3,000,000 developers worldwide. My models on Kaggle have also gained significant traction, with over **50,000 downloads** as of January 2026.
 
-You’ll find me building and contributing to open source, authoring models originally developed by high-value organizations and institutions such as **Google DeepMind** (for the Gemma series) and the **University of Science and Technology of China**. Having previously worked with **Google**, **Samsung R&D**, and **IIT Bombay**, I’ve honed my skill set through diverse experiences, but I remain deeply committed to the mission of bringing AI to everyone as the field becomes increasingly compute-hungry.
+You’ll find me building and contributing to open source, authoring models originally developed by high-value organizations and institutions such as **Google DeepMind** and the **University of Science and Technology of China**, and collaborating with **Keras** and **Hugging Face**. Having previously worked with **Google**, **Samsung R&D**, and **IIT Bombay**, I’ve honed my skill set through diverse experiences, but I remain deeply committed to the mission of bringing AI to everyone as the field becomes increasingly compute-hungry.
 
 ### Built Together, For Everyone
 
 I believe in designing with the user in mind, and my open-source work reflects this philosophy. I've contributed to various ecosystems (the links are to my individual contributions to these repositories, not the repositories themselves):
 
+* **Hugging Face:** Continuing to contribute to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.
 * **KerasHub:** Continuing to contribute multiple projects to [KerasHub](https://github.com/keras-team/keras-hub/pulls?q=is%3Apr+author%3Aharshaljanjani) and the [Kaggle](https://www.kaggle.com/harshaljanjani/models) Keras page.
 * **Core Keras:** Continuing to contribute multiple bug fixes and features to the [Core Keras](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3Aharshaljanjani) library (releases 3.9.0 and 3.11.0).
-* **HuggingFace:** Continuing to contribute to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.
 * **PyTorch:** Contributed to the [PyTorch Tutorials](https://github.com/pytorch/tutorials/pull/3377) ecosystem.
-* **Cactus:** Contributed to the [Cactus](https://github.com/cactus-compute/cactus/pulls?q=is%3Apr+author%3Aharshaljanjani+) ecosystem.
+* **Cactus:** Contributed to the [Cactus](https://github.com/cactus-compute/cactus/pull/224) ecosystem.
 
 -----
 

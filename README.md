@@ -18,11 +18,11 @@ You'll probably find me building and contributing to open source, authoring mode
 
 My strength lies in <ins>the taste I possess for large ML codebases and infrastructure</ins>. I can adapt quickly and learn on the job while creating no less impact. I can parallelize learning and value creation while undertaking complex projects and working under stringent deadlines. I iterate quickly and let the work set a strong precedent, while taking ownership of my projects. [Here are the references](https://www.linkedin.com/in/harshaljanjani/details/recommendations/) from some of my lovely teammates, product manager, and team lead from Google about my ethic and the value I bring to my work. 
 
-I also really seem to love using right arrows (→) instead of bullet points; I don’t know why lol.
+I also really seem to love using right arrows (→) instead of bullet points; I don't know why lol.
 
 <h3>My Mission</h3>
 
-I believe in designing with the user in mind, and my open-source work reflects this philosophy. I’ve contributed to various ecosystems (the links point to my individual contributions, not the repositories themselves). Below are some notable examples; not an exhaustive list:
+I believe in designing with the user in mind, and my open-source work reflects this philosophy. I've contributed to various ecosystems (the links point to my individual contributions, not the repositories themselves). Below are some notable examples; not an exhaustive list:
 
 → **Hugging Face:** Continuing to contribute to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.<br>
 → **KerasHub:** Continuing to contribute multiple projects to [KerasHub](https://github.com/keras-team/keras-hub/pulls?q=is%3Apr+author%3Aharshaljanjani) and the [Kaggle](https://www.kaggle.com/harshaljanjani/models) Keras page.<br>

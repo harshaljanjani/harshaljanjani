@@ -25,6 +25,7 @@ I also really seem to love using right arrows (→) instead of bullet points; I 
 I believe in designing with the user in mind, and my open-source work reflects this philosophy. I've contributed to various ecosystems (the links point to my individual contributions, not the repositories themselves). Below are some notable examples; not an exhaustive list:
 
 → **Hugging Face:** Continuing to contribute to the [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aharshaljanjani) library.<br>
+→ **vLLM:** Continuing to contribute to the [vLLM project](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Aharshaljanjani).<br>
 → **KerasHub:** Continuing to contribute multiple projects to [KerasHub](https://github.com/keras-team/keras-hub/pulls?q=is%3Apr+author%3Aharshaljanjani) and the [Kaggle](https://www.kaggle.com/harshaljanjani/models) Keras page.<br>
 → **Core Keras:** Continuing to contribute multiple bug fixes and features to the [Core Keras](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3Aharshaljanjani) library (releases 3.9.0 and 3.11.0).<br>
 → **PyTorch:** Contributed to the [PyTorch Tutorials](https://github.com/pytorch/tutorials/pull/3377) ecosystem.<br>

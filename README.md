@@ -18,7 +18,7 @@ You'll probably find me building and contributing to open source, authoring mode
 
 My strength lies in <ins>the taste I possess for large ML codebases and infrastructure</ins>. I can adapt quickly and learn on the job while creating no less impact. I can parallelize learning and value creation while undertaking complex projects and working under stringent deadlines. I iterate quickly and let the work set a strong precedent, while taking ownership of my projects. [Here are the references](https://www.linkedin.com/in/harshaljanjani/details/recommendations/) from some of my lovely teammates, product manager, and team lead from Google about my ethic and the value I bring to my work. 
 
-I also really seem to love using right arrows (→) instead of bullet points; I don't know why lol.
+I also really seem to love using right arrows (→) instead of bullet points.
 
 <h3>My Mission</h3>
 

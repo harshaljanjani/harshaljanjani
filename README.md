@@ -10,7 +10,7 @@
   <img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Keras-GfD-Banner.original.png" width="800"/>
 </p>
 
-My work focuses on building open-source models for real-world applications and democratizing AI. Previously with the Keras team, I have been privileged to make an impact on the library, which continues to serve more than 3 million developers worldwide. My models on Kaggle have also gained significant traction, with over 50K downloads (as of Jan 2026).
+My work focuses on building open-source models for real-world applications and democratizing AI. Previously with the Keras team, I have been privileged to make an impact on the library, which continues to serve more than 3 million developers worldwide. My models on Kaggle have also gained significant traction, with over 128K downloads (as of 2026).
 
 You'll probably find me building and contributing to open source, authoring models originally developed by high-value organizations and institutions such as Google DeepMind and the University of Science and Technology of China, and collaborating with Hugging Face and Keras. Having previously worked with Google, Samsung, and IIT Bombay, I've honed my skill set through diverse experiences, but I remain deeply committed to the mission of bringing AI to everyone.
 
